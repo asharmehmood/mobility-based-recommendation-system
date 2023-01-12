@@ -1,0 +1,70 @@
+label infomation
+<loc>
+1 - home
+2 - on the bus
+3 - on the subway
+4 - walking
+5 - driving
+6 - indoor(except home)
+7 - outdoor
+
+<Gender>
+1 - Male
+2 - Female
+
+<Profession>
+1 - student
+2 - Office workers
+
+<event>
+1 - When the viewing occurred
+0 - Others
+
+<view>
+1 - new
+2 - Continue
+3 - watch the series(running man1 -> running man2)
+
+<time>
+1 - 0:00:00 ~ 0:59:59
+2 - 1:00:00 ~ 1:59:59
+         ....
+24 - 23:00:00 ~ 23:59:59
+
+<device>
+1 - Android Phone / iOS Phone
+2 - Android Tablet /  iOS Tablet
+3 - PC
+4 - Chromecast / Smart TV
+
+<section>
+1 - entertainment
+2 - drama
+3 - Current affairs, information & education
+4 - animation
+5 - Overseas series
+6 - movie
+
+
+
+<CP>
+1 - 	(SBS / KBS)
+2 - 	(MBN / ChannelA)
+3 - 	(Daewon Media)
+4 - 	(wavve)
+5 - 	(HBO / KANSAI TV)
+6 - 	(Showbox / Content Panda Movies / Story J / KTH Movies)
+7 - 	(universal studio movies / NK CONTENTS)
+
+
+
+
+https://towardsdatascience.com/how-to-build-a-movie-recommendation-system-67e321339109
+
+https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/
+https://www.kdnuggets.com/2019/04/building-recommender-system.html
+https://medium.com/mlearning-ai/building-movie-recommendation-system-with-surprise-and-python-e905de755c61
+
+
+
+
